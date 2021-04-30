@@ -1,0 +1,28 @@
+﻿Identifier: DCAT-MEX-INEGI-ENPECyT-2017
+
+Title: Encuesta sobre la Percepción Pública de la Ciencia y la Tecnología en México (ENPECyT) 
+
+Description: La Encuesta sobre la Percepción Pública de la Ciencia y la Tecnología en México, la realizó el CONACYT en el año de 1997. Su objetivo es obtener información estadística que permita generar múltiples indicadores que midan el conocimiento, entendimiento y actitud de las personas hacia las actividades científicas y tecnológicas. La ENPCyT-2017 proporciona resultados al agregado de 32 áreas urbanas de interés de 100 000 y más habitantes. La población objetivo son las personas de 18 años cumplidos y más que residen en viviendas particulares. Este marco es en realidad una muestra maestra a partir de la cual se seleccionan las muestras para todas las encuestas en viviendas que realiza el INEGI; como tal, su diseño es probabilístico, estratificado, unietápico y por conglomerados, a los que se denominó unidades primarias de muestreo, pues es en ellos donde se seleccionan en una segunda etapa, las viviendas que integran las muestras de las diferentes encuestas.
+
+Modified: 2018-06-20
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: http://www.inegi.org.mx/inegi/terminos.html
+
+Datadictionary:
+
+Keyword: CONACYT, Viviendas, Ciencia, Tecnología, Hogares, Actividades científicas, Actividades tecnológicas 
+
+Contactpoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2017
+
+Spatial: Estados Unidos Mexicanos
+
+Accrualperiodicity: Bienal
+
+Distribution: https://www.inegi.org.mx/programas/enpecyt/2017/
+
