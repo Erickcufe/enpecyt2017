@@ -1,6 +1,4 @@
 ## code to prepare `DATASET` dataset goes here
-cb1_2017 <- read.csv("ENPECYT 2005-2017/2011/enpecyt2011_cb1.csv")
-
 filter_cnames <- function(df){
   cnames <- colnames(df)
   correct <- lapply(cnames, function(x){
