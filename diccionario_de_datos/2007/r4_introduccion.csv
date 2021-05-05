@@ -1,0 +1,38 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                            
+3,MUNICIPIO,Carácter,3,Municipio o delegación                        
+4,LOCALIDAD,Carácter,4,Localidad                                     
+5,AGEB,Carácter,4,Clave de AGEB                                 
+6,NUMCONTROL,Carácter,6,Número de control                             
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada               
+8,IDHOGAR,Carácter,1,Hogar                                         
+9,DEGVIV,Carácter,1,de                                            
+10,NUMREN,Carácter,2,Número de renglón:                            
+11,NIVELINS,Carácter,2,1.- Nivel de instrucción:                     
+12,APOBO,Carácter,2,Aprobó                                        
+13,CODCARR,Carácter,3,2.- Código de la carrera:                     
+14,ESPE,Carácter,50,Especifique:                                  
+15,ANTESCO,Carácter,1,3.- Antecedente escolar                       
+16,BIOLOGIA,Carácter,1,biología                                      
+17,FISICA,Carácter,1,física ?                                      
+18,QUIMICA,Carácter,1,química ?                                     
+19,MATEMA,Carácter,1,matemáticas ?                                 
+20,TIPOESC,Carácter,1,5.- Tipo de escuela                           
+21,EDADULG,Carácter,2,6.- Edad al último grado aprobado:            
+22,ACTESTUDI,Carácter,1,7.- ¿Actualmente estudia?                     
+23,CIENTIF1,Carácter,1,científico ?                                  
+24,INGEN1,Carácter,1,ingeniero ?                                   
+25,CIENTIF2,Carácter,1,científico ?                                  
+26,INGEN2,Carácter,1,ingeniero ?                                   
+27,CONDACT,Carácter,1,Condición de actividad                        
+28,VERIDACT,Carácter,1,Verificación de actividad                     
+29,POSDOCU,Carácter,1,Posición en la ocupación                      
+30,TAROFUN,Carácter,70,Tareas o funciones                            
+31,OCUPACION,Carácter,2,Ocupación                                     
+32,ESPECI,Carácter,60,Especifique                                   
+33,NODUNIECO,Carácter,60,Nombre de la unidad económica                 
+34,ACTIECO,Carácter,2,Actividad de la unidad económica              
+35,ESPECIF,Carácter,60,Especifique (Actividad de la unidad económica)
+36,ACTICIEN,Carácter,1,Actividad científica                          
+37,LLAVE,Carácter,23,Llave que identifica el hogar

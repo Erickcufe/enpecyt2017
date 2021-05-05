@@ -1,0 +1,26 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad federativa
+6,MUNICIPIO,Character,3,Municipio o delegación 
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Clave de AGEB
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Número de vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,CULTURA,Character,1,A.1.1 Cultura
+13,POLITICA,Character,1,A.1.2 Política
+14,CYT,Character,1,A.1.3 Ciencia y tecnología
+15,SOCIALES,Character,1,A.1.4 Sociales
+16,DEPORTES,Character,1,A.1.5 Deportes
+17,ECOYFIN,Character,1,A.1.6 Economía y finanzas
+18,CULTU2,Character,1,A.2.1 Cultura
+19,POLIT2,Character,1,A.2.2 Política
+20,CYT2,Character,1,A.2.3 Ciencia y tecnología
+21,SOCIAL2,Character,1,A.2.4 Sociales
+22,DEPOR2,Character,1,A.2.5 Deportes
+23,ECOYFIN2,Character,1,A.2.6 Economía y finanzas
+24,NUMREN,Character,2,Número de renglón
+25,FACPER,Numeric,10,Factor de expansión por persona

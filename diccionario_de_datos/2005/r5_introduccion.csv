@@ -1,0 +1,36 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad Federativa
+6,MUNICIPIO,Character,3,Municipio o delegación
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Clave de AGEB
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Número de vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,NUMREN,Character,2,Número de renglón
+13,NIVELINS,Character,2,1. Nivel de instrucción
+14,NIVELANI,Character,2,1. Nivel de instrucción (años)
+15,ANTECE,Character,1,2. Antecedente escolar
+16,NOMCARR,Character,80,3. Nombre de la carrera o especialidad
+17,TIPOESC,Character,1,4. Tipo de escuela
+18,BIOLOGIA,Character,1,5.1. Biología
+19,FISICA,Character,1,5.2. Física
+20,QUIMICA,Character,1,5.3. Química
+21,MATEMA,Character,1,5.4. Matemáticas
+22,ACTUALES,Character,1,6. Actualmente estudia
+23,CIENTIF1,Character,1,6.1. Le gustaría ser científico
+24,INGEN1,Character,1,6.1. Le gustaría ser ingeniero
+25,CIENTIF2,Character,1,6.2. Si volviera a estudiar le gustaría ser científico
+26,INGEN2,Character,1,6.2. Si volviera a estudiar le gustaría ser ingeniero
+27,CONDACT,Character,1,7. Condición de actividad
+28,VERIACT,Character,1,8. Verificación de actividad
+29,POSACT,Character,1,9. Posición en la ocupación
+30,TAREASYF,Character,50,10. Tareas o funciones
+31,OCUPACION,Character,2,11. Nombre de la ocupación
+32,NOMBREMP,Character,50,12. Nombre de la empresa
+33,ACTIECO,Character,2,13. Actividad económica de la empresa
+34,ACTICIEN,Character,1,14. Actividad científica de la empresa
+35,FACPER,Numeric,10,Factor de expansión por persona

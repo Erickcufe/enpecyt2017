@@ -1,0 +1,74 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad federativa
+6,MUNICIPIO,Character,3,Municipio o delegación 
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Clave de AGEB
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Número de vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,RADIO,Character,1,B.3.1 Radio
+13,PERYREV,Character,1,B.3.2 Periódicos y revistas
+14,REVCIEN,Character,1,B.3.3 Revistas científicas
+15,INTERNET,Character,1,B.3.4 Internet
+16,TELEVI,Character,1,B.3.5 Televisión
+17,ESCUNIV,Character,1,B.3.6 Escuela/Universidad
+18,ALLOPTS,Character,1,B.3.7 Todas son importantes
+19,NONEOP,Character,1,B.3.8 Ninguna es importante
+20,NOSABE,Character,1,B.3.9 No sabe
+21,HRSTV,Character,3,B.4    ¿Cuántas horas semanales ve televisión?
+22,NOTITV,Character,3,B.4.1 ¿Cuántas horas semanales ve noticias en T.V.?
+23,CYTTV,Character,3,B.4.2 ¿Cuántas horas semanales ve programas de ciencia y tecnología en T.V.?
+24,HRSRADIO,Character,3,B.5    ¿Cuántas horas semanales escucha radio?
+25,NOTIRA,Character,3,B.5.1 ¿Cuántas horas semanales ve noticias en T.V.?
+26,CYTRA,Character,3,B.5.2 ¿Cuántas horas semanales escucha programas de ciencia y tecnología en radio?
+27,DIASPER,Character,1,B.6    ¿Cuántos dias a la semana lee periódicos?
+28,ARTIPER,Character,3,B.6.1 ¿Cuántos artículos a la semana lee en periódicos?
+29,NOTIPER,Character,3,B.6.2 ¿Cuántos artículos de noticias actuales lee en periódicos semanalmente?
+30,CYTPER,Character,3,B.6.3 ¿Cuántos artículos semanales de ciencia y tecnología lee en el periódico?
+31,DIASREV,Character,2,B.7    ¿Cuántos días a la quincena lee revistas?
+32,ARTREV,Character,2,B.7.1 ¿Cuántos artículos a la quincena lee revistas?
+33,NOTIREV,Character,2,B.7.2 ¿Cuántos artículos de noticias actuales lee revistas quincenalmente?
+34,CYTREV,Character,2,B.7.3 ¿Cuántos artículos de ciencia y tecnología lee quincenalmente en revistas?
+35,REVISTA1,Character,30,B.7.4 Dígame las revistas principales que lee (Opción uno)
+36,REVISTA2,Character,30,B.7.4.1 Dígame las revistas principales que lee (Opción dos)
+37,REVISTA3,Character,30,B.7.4.2 Dígame las revistas principales que lee (Opción tres)
+38,ACCOMPU,Character,1,8    Acceso a la computadora
+39,LUGAR1,Character,2,8.1 ¿En que lugares tiene usted acceso a las computadoras? (Opción uno)
+40,LUGAR2,Character,2,8.1 ¿En que lugares tiene usted acceso a las computadoras? (Opción dos)
+41,CINTERN,Character,1,9    Conocimiento de internet
+42,ACCINTER,Character,1,10   Accseso a internet
+43,HORASIN,Character,3,10.1 ¿Cuántas horas a la semana accesa a internet?
+44,ARTEYHUM,Character,1,11.1 Artes y humanidades
+45,SOCYCUL,Character,1,11.2 Sociedad y cultura
+46,CONVERTR,Character,1,11.3 Conversación en tiempo real
+47,INSTGOB,Character,1,11.4 Instituciones de gobierno
+48,CIENCIA,Character,1,11.5 Ciencia
+49,DEPOR,Character,1,11.6 Deportes
+50,ECOYFIN,Character,1,11.7 Economía y finanzas
+51,ENTRETE,Character,1,11.8 Entretenimiento
+52,TECNOL,Character,1,11.9 Tecnología
+53,NOTIAC,Character,1,11.10 Noticias de actualidad
+54,EDUCA,Character,1,11.11 Educación
+55,SERVSREF,Character,1,11.12 Servicios de referencia
+56,COMENLI,Character,1,11.13 Compras en línea
+57,CORREOE,Character,1,11.14 Correo electrónico
+58,MEDICINA,Character,1,11.15 Medicina
+59,OTROS,Character,1,11.16 Otros
+60,MUSARTE,Character,1,12.1 Museo de arte
+61,ZOO,Character,1,12.2 Zoológico o acuario
+62,BIBLIOPUB,Character,1,12.3 Biblioteca pública
+63,MUSCYT,Character,1,12.4 Museo de ciencia y tecnología
+64,PLANETA,Character,1,12.5 Planetario
+65,EXPTYI,Character,1,12.6 Exposiciones tecnológicas o industriales
+66,SEMNCYT,Character,1,12.7 Semana nacional de ciencia y tecnología
+67,MUCHPCYT,Character,1,13.1 Hay muchos programas de ciencia y tecnología en los medios de comunicación
+68,DESCYTNE,Character,1,13.2 Los desarrollos científicos y tecnológicos se presentan con frecuencia de un modo muy negativo
+69,PERSINCC,Character,1,13.3 Muchos de los periódistas que abordan temas científicos no tienen ni el conocimiento ni la preparación requerida para ello
+70,PREFTVSI,Character,1,13.4 Prefiero ver programas sobre ciencia y tecnología en televisión que leer artículos sobre el tema en periódicos y revistas
+71,NOLEECYT,Character,1,13.5 Muy de vez en cuando leo artículos sobre ciencia y tecnología
+72,NUMREN,Character,2,Número de renglón
+73,FACPER,Numeric,10,Factor de expansión por persona

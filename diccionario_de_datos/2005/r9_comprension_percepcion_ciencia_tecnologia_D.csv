@@ -1,0 +1,46 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad federativa
+6,MUNICIPIO,Character,3,Municipio o delegación 
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Clave de AGEB
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Número de vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,ESTCIEN,Character,1,D.1 Estudio científico
+13,SOFTWARE,Character,1,D.2 Software o paquetería computacional
+14,CONTAMI,Character,1,D.3 Contaminación ambiental
+15,EFECTINV,Character,1,D.4 Efecto invernadero
+16,CALENTA,Character,1,D.5 Calentamiento global de la tierra
+17,CAPAOZ,Character,1,D.6 Agujero en la capa de ozono 
+18,TRANSGEN,Character,1,D.7 Alimentos modificados genéticamente
+19,MEDIMGE,Character,1,D.8 Medicinas producto de la ingeniería genética
+20,NANOTEC,Character,1,D.9 Nanotecnologías
+21,MOTCEL,Character,1,D.10 Motores de energía por celdas
+22,TERRACAL,Character,1,18.1 El centro de la Tierra es muy caliente
+23,RADIOAMU,Character,1,18.2 Toda la radioactividad está hecha por el hombre
+24,OXIGRES,Character,1,18.3 Todo el oxígeno que respiramos proviene de las plantas
+25,SEXOBEBE,Character,1,18.4 El gen del padre es el que decide si el bebé es niño o niña
+26,LASERSON,Character,1,18.5 El rayo láser trabaja por el enfoque de ondas sonoras
+27,ELECTRON,Character,1,18.6 Los electrones son más pequeños que los átomos
+28,ANTIBIO,Character,1,18.7 Los antibióticos sirven para tratar enfermedades causadas tanto por virus como por bacterias
+29,BIGBANG,Character,1,18.8 El universo inició con una gran explosión
+30,PLACASTEC,Character,1,18.9 Los continentes sobre los que vivimos han cambiado de posición atraves del tiempo y lo seguirán haciendo en el futuro
+31,EVOLUCIO,Character,1,18.10 Los seres humanos de hoy se desarrollaron a partir de la evolución de otras especies animales
+32,CANCERP,Character,1,18.11 Fumar puede causar cáncer pulmonar
+33,TIHUDINO,Character,1,18.12 Los primeros humanos vivieron en la misma época que los dinosaurios
+34,CANCERPI,Character,1,18.13 El agujero de la capa de ozono causa cáncer en la piel
+35,EFECTOIN,Character,1,18.14 El efecto invernadero puede elevar el nivel de los océanos
+36,LLUVIAC,Character,1,18.15 La lluvia ácida puede causar daños a los bosques
+37,EMISIONG,Character,1,18.16 La emisión de gases de los escapeas de los automóviles no tiene nada que ver con la lluvia ácida
+38,TRASLAC,Character,1,18.17 La tierra da la vuelta al Sol en un mes
+39,VELLUZ,Character,1,18.18 El sonido viaja más rápido que la luz
+40,ALIMTRAN,Character,1,"18.19 El consumo frecuente de alimentos genéticamente modificados, puede ser dañino para la salud"
+41,CAPOZON,Character,1,18.20 Debido a los agujeros en la capa de ozono ocurrirán cada vez más tormentas y huracanes
+42,PATRONGE,Character,1,19 Cultura científica: Patrón genético
+43,PRUEBAME,Character,1,20 Cultura científica: Prueba de medicamentos
+44,NUMREN,Character,2,Número de renglón 
+45,FACPER,Numeric,10,Factor de expansión por persona

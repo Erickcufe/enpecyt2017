@@ -1,0 +1,54 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Tipo de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                        
+3,MUNICIPIO,Carácter,3,Municipio o delegación                    
+4,LOCALIDAD,Carácter,4,Localidad                                 
+5,AGEB,Carácter,4,Clave de AGEB                            
+6,NUMCONTROL,Carácter,6,Número de control                         
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada           
+8,IDHOGAR,Carácter,1,Hogar                                     
+9,DEGVIV,Carácter,1,de                                        
+10,SABECONACY,Carácter,1,¿Sabe que es el Consejo Nacional de            
+11,TELEVICION,Carácter,1,Televisión                                     
+12,RADIO,Carácter,1,Radio                                          
+13,PERIODICO,Carácter,1,Periódico o revista                            
+14,LIBROS,Carácter,1,Libros                                         
+15,INTERNET,Carácter,1,Internet                                       
+16,OTROS,Carácter,1,Otros                                          
+17,ACTCANACYT,Carácter,1,¿Sabe a qué actividades se dedica el           
+18,PUBREVCYT,Carácter,1,Publicación de revistas de ciencia y tecnología
+19,DIFACTCYTM,Carácter,1,Difusión de actividades científicas y tecnología
+20,FINAEMPESA,Carácter,1,Financiamiento a empresas para desarrollos tecn
+21,APOYOCUL,Carácter,1,Apoyos a proyectos culturales                  
+22,BECAS,Carácter,1,Otorgamiento de becas de posgrado              
+23,INVESTI,Carácter,1,Investigación                                  
+24,FININVUNI,Carácter,1,Financiamiento a proyectos de investigación en 
+25,CONSESC,Carácter,1,Construcción de escuelas                       
+26,OTRAS,Carácter,1,Otras                                          
+27,ESPECI,Carácter,20,Especifique                                    
+28,OPNCONACYT,Carácter,1,¿Qué opinión tiene del CONACYT?                
+29,BECPOSNAC,Carácter,1,1 Becas a posgrados nacionales                 
+30,BECPOSEXT,Carácter,1,2 Becas a posgrados extranjeros                
+31,BECESTTEC,Carácter,1,3 Becas a estancias técnicas                   
+32,INCENFISC,Carácter,1,4 Incentivos fiscales a la inversión en        
+33,FONMIX,Carácter,1,5 Fondos mixtos                                
+34,FONSEC,Carácter,1,6 Fondos sectoriales                           
+35,FONINST,Carácter,1,7 Fondos institucionales                       
+36,PROGAVANC,Carácter,1,8 Programa Avance                              
+37,SISNACINV,Carácter,1,9 Sistema Nacional de Investigadores           
+38,REDYCON,Carácter,1,10 Redes y consorcios                          
+39,COOPINST,Carácter,1,11 Cooperación institucional                   
+40,RENAINEM,Carácter,1,12 Registro Nacional de Instituciones y Empresa
+41,SISINFDCYT,Carácter,1,13 Sistema Integrado de Información Científica 
+42,INFEDOCIET,Carácter,1,14 Informe del Estado General de la Ciencia y l
+43,PRIORI,Carácter,1,En materia de política de ciencia y            
+44,RELPOLICON,Carácter,1,¿Cómo considera la relación entre las políticas
+45,POLIACT,Carácter,1,"En su opinión, ¿la política actual del         "
+46,APOYOINV,Carácter,1,Apoyo a la investigación                       
+47,SINAIN,Carácter,1,Sistema Nacional de Investigadores             
+48,BECAPOSG,Carácter,1,Becas de posgrado                              
+49,APOYODT,Carácter,1,Apoyo al desarrollo tecnológico                
+50,PROGRAYREP,Carácter,1,Programas de retención y repatriación          
+51,OBSERVACIO,Carácter,50,Observaciones
+52,LLAVE,Carácter,23,Llave que identifica al hogar
+53,NUMREN,Carácter,2,Número de renglón que relaciona con las tablas R4 y R3

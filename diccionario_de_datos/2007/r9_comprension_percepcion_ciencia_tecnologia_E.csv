@@ -1,0 +1,83 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                             
+3,MUNICIPIO,Carácter,3,Municipio o delegación                         
+4,LOCALIDAD,Carácter,4,Localidad                                      
+5,AGEB,Carácter,4,Clave de AGEB                                  
+6,NUMCONTROL,Carácter,6,Número de control                              
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada                
+8,IDHOGAR,Carácter,1,Hogar                                          
+9,DEGVIV,Carácter,1,de                                             
+10,CURASIYCA,Carácter,1,1 El progreso científico y tecnológico ayudará 
+11,OPORTUNIDA,Carácter,1,2 Gracias a la ciencia y la tecnología habrá má
+12,VIDACONFOR,Carácter,1,3 La ciencia y la tecnología hacen nuestras vid
+13,TRABINT,Carácter,1,4 Con la aplicación de la ciencia y nuevas tecn
+14,PROTMEDA,Carácter,1,5 La ciencia y la tecnología juegan un papel mu
+15,DESTPLAN,Carácter,1,6 Los descubrimientos tecnológicos tarde o temp
+16,CONSEDAN,Carácter,1,7 Los nuevos inventos sirven para contrarrestar
+17,POBHUMANA,Carácter,1,8 La ciencia y la tecnología ayudarán a erradic
+18,GENEMPLEOS,Carácter,1,"9 En general, la automatización de las fábricas"
+19,RECINAGO,Carácter,1,10 Gracias a los avances científicos y tecnológ
+20,RESOPROB,Carácter,1,11 La ciencia y la tecnología pueden resolver t
+21,PAPELFUNDA,Carácter,1,1 La investigación científica y tecnológica jue
+22,INVESBAS,Carácter,1,2 Las nuevas tecnologías dependen de la investi
+23,APOYOGOB,Carácter,1,3 La investigación básica debe ser apoyada por 
+24,ECONCOMP,Carácter,1,4 Sólo al aplicar las más modernas tecnologías 
+25,INTACTECO,Carácter,1,5 La internet es esencial para el desarrollo d
+26,INTCALVIDA,Carácter,1,6 La internet ayudará a mejorar la calidad de v
+27,PRODBARAT,Carácter,1,7 La investigación científica hace que los prod
+28,BIENESTEC,Carácter,1,8 Muchos de los bienes de alta tecnología son ú
+29,CRECOPOB,Carácter,1,9 El crecimiento económico de una población est
+30,BENINVCIEN,Carácter,1,10 Son mayores los beneficios generados por la 
+31,USOSDESC,Carácter,1,"1 Como miembro de la sociedad, un científico de"
+32,RESPMALUSO,Carácter,1,2 Los científicos son responsables de los malos
+33,PELIGROSOS,Carácter,1,"3 Debido a sus conocimientos, los investigadores"
+34,DESCBUMA,Carácter,1,4 Los descubrimientos científicos por sí mismos
+35,INVANIMAL,Carácter,1,5 Debe ser permitido a los científicos la invest
+36,ETICA,Carácter,1,6 Las autoridades deberían obligar a los cientí
+37,REGLASET,Carácter,1,7 Los científicos deben ser libres de llevar a 
+38,PRESMAYOR,Carácter,1,"1 El presupuesto para la investigación, debería"
+39,GOBININVE,Carácter,1,2 El gobierno debería invertir más en investiga
+40,TRABENCONJ,Carácter,1,3 Los investigadores de los diferentes países d
+41,TRAENINVES,Carácter,1,4 En México debería haber más gente trabajando 
+42,FUGACEREB,Carácter,1,5 Los investigadores mejor calificados se van a
+43,COORINVES,Carácter,1,6 Debería haber mayor coordinación entre los in
+44,COOPEMCI,Carácter,1,7 Los científicos y los empresarios deberían co
+45,PRIORIDAD,Carácter,1,8 Las prioridades en la investigación nacional 
+46,PATENTES,Carácter,1,9 Los científicos deberían interesarse más en p
+47,IMPLETICA,Carácter,1,10 Los mexicanos deberían estar menos preocupad
+48,MUJERCYT,Carácter,1,11 Debería haber más mujeres dedicadas a la inv
+49,INVCNTYREG,Carácter,1,1 La investigación y el desarrollo tecnológico 
+50,POLITICOS,Carácter,1,2 Los políticos deben confiar más sus decisione
+51,DESNEG,Carácter,1,3 Los desarrollos científicos y tecnológicos se
+52,INDIFERENT,Carácter,1,4 Para gente como yo no es importante estar inv
+53,PUBINVOLU,Carácter,1,5 El público está suficientemente involucrado e
+54,POCAINFOR,Carácter,1,6 Los científicos ponen muy poco esfuerzo por i
+55,INTEJOVE,Carácter,1,1 El interés en la ciencia de parte de los jóve
+56,FOMENMUJER,Carácter,1,2 Se debería fomentar y animar a las niñas y mu
+57,CLASESACT,Carácter,1,3 Las clases de ciencia en las escuelas no son 
+58,INTERCAM,Carácter,1,4 Las universidades en México deberían estar má
+59,IMAGEN,Carácter,1,5 La ciencia tiene una imagen muy negativa para
+60,RIESGOTEC,Carácter,1,6 Si una nueva tecnología tiene riesgo que no s
+61,IMPRIESGO,Carácter,1,7 Si le damos demasiada importancia a los riesg
+62,MADCOMU,Carácter,1,28 Cuando en los distintos medios de comunicación
+63,OTRA,Carácter,15,Otra                                           
+64,CIENMED,Carácter,1,28.1 Cuando se tocan temas de ciencia en los di
+65,OTRAS,Carácter,15,Otra:                                          
+66,PUBLIDPROD,Carácter,1,28.2 Cuando se le presenta la publicidad de un 
+67,SALINV,Carácter,1,28.3 ¿Tiene idea de cuál es el salario de un in
+68,MAGSAL,Carácter,1,28.4 ¿De que magnitud cree que sea el salario d
+69,CONOCE,Carácter,1,28.5 ¿Conoce usted de manera directa a alguna p
+70,CONSIDERA,Carácter,1,28.6 ¿Cómo considera que es el conocimiento cie
+71,SATELITES,Carácter,1,1 Satélites de comunicación                    
+72,REDCONTA,Carácter,1,2 Reducción de la contaminación                
+73,MESESAL,Carácter,1,3 Mejoras en los servicios de salud            
+74,APOYOINVCI,Carácter,1,4 Apoyos a la investigación científica         
+75,MEJSERVSAL,Carácter,1,5 Mejoras en los servicios de salud            
+76,ACCESOUNI,Carácter,1,6 Dotar a la población de acceso universal a la
+77,REDPOBRE,Carácter,1,7 Reducción de la pobreza y atención a los     
+78,MEJORCIENT,Carácter,1,1 ¿Dónde están los mejores científicos?        
+79,PAISINV,Carácter,1,2 ¿Cuál país gasta más dinero en investigación 
+80,APLCON,Carácter,1,3 ¿En donde es más frecuente aplicar los       
+81,LLAVE,Carácter,23,Llave que identifica al hogar
+82,NUMREN,Carácter,2,Número de renglón que relaciona con las tablas R4 y R3

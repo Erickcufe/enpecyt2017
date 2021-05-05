@@ -1,0 +1,26 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Tipo de registro
+2,ENTIDAD,Carácter,2,Entidad federativa             
+3,MUNICIPIO,Carácter,3,Municipio o delegación         
+4,LOCALIDAD,Carácter,4,Localidad                      
+5,AGEB,Carácter,4,Clave de AGEB                  
+6,NUMCONTROL,Carácter,6,Número de control              
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada
+8,IDHOGAR,Carácter,1,Hogar                          
+9,DEGVIV,Carácter,1,de                             
+10,NUMREN,Carácter,2,Número de renglón              
+11,PARENTE,Carácter,1,Parentesco                     
+12,SEXO,Carácter,1,Sexo                           
+13,EDAD,Carácter,3,Edad                           
+14,DIA,Carácter,2,Día de nacimiento              
+15,MES,Carácter,2,Mes de nacimiento              
+16,ELIGIBI,Carácter,1,Elegibilidad                   
+17,NIVEL,Carácter,2,Nivel de instrucción           
+18,ULTGRAPRO,Carácter,2,Ultimo grado aprobado          
+19,ANTECE,Carácter,1,Antecedente escolar            
+20,LLAVE,Carácter,25,Llave que identifica el hogar
+21,LLAVEREN,Carácter,25,Llave que identifica el número de renglón
+22,RESENT,Carácter,2,Resultado de la entrevista              
+23,AM,Carácter,2,
+24,GPOEDA,Carácter,2,Grupos de edad
+25,FACTORVIV,Numérico,10,Factor según el número de viviendas

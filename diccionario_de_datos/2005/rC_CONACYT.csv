@@ -1,0 +1,56 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad
+6,MUNICIPIO,Character,3,Municipio
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Ageb
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,SABECONACY,Character,1,1. Sabe qué es el CONACYT o al menos ha oído hablar de el
+13,TELE,Character,1,2.1. Televisión
+14,RADIO,Character,1,2.2. Radio
+15,PEROREV,Character,1,2.3. Periódico o revista
+16,LIBROS,Character,1,2.4. Libros
+17,INTERNET,Character,1,2.5. Internet
+18,OTROS,Character,1,2.6. Otros
+19,NOSABECONA,Character,1,3. Sabe a qué actividades se dedica el CONACYT
+20,PUREVCIETE,Character,1,4.1. Publicación de revistas de ciencia y tecnología
+21,DIFACTCYTM,Character,1,4.2. Difusión de actividades científicas y tecnológicas en México
+22,FINEMPDEST,Character,1,4.3. Financiamiento a empresas para desarrollos tecnológicos
+23,APOPROYCUL,Character,1,4.4. Apoyos a proyectos culturales
+24,BECAPOSG,Character,1,4.5. Otorgamiento de becas para postgrado
+25,INVEST,Character,1,4.6. Investigación
+26,FININVUNI,Character,1,4.7. Financiamiento a proyectos de investigación en universidades
+27,CONSESC,Character,1,4.8. Construcción de escuelas
+28,OTRAS,Character,1,4.9. Otras
+29,TEXTO,Character,30,4.9. Otras (especifique)
+30,OPNCONA,Character,1,5. Qué opinión tiene del CONACYT
+31,BECPOSNAC,Character,1,6.1. Becas a postgrados nacionales
+32,BECPOSEXT,Character,1,6.2. Becas a postgrados extranjeros
+33,BECESTTEC,Character,1,6.3. Becas a instancias técnicas
+34,INCINVDES,Character,1,6.4. Incentivos fiscales a la inversión en investigación y desarrollo
+35,FONMIX,Character,1,6.5. Fondos mixtos
+36,FONSEC,Character,1,6.6. Fondos sectoriales
+37,FONINS,Character,1,6.7. Fondos institucionales
+38,PROAVA,Character,1,6.8. Programa avance
+39,SISNACINV,Character,1,6.9. Sistema nacional de investigadores
+40,REDCON,Character,1,6.10. Redes y consorcios
+41,COOPINST,Character,1,6.11. Cooperación institucional
+42,REGNACCIEN,Character,1,6.12. Registro nacional de instituciones y empresas científicas y tecnológicas
+43,SISINFCIET,Character,1,6.13. Sistema integrado de información científica y tecnológica
+44,INFEDOCIET,Character,1,6.14. Informe del Estado General de la ciencia y la tecnología en México
+45,APOYINV,Character,1,7.1. Apoyo a la investigación
+46,SISNACINV2,Character,1,7.2. Sistema nacional de investigadores
+47,BECPOS,Character,1,7.3. Becas de postgrado
+48,APODESTEC,Character,1,7.4. Apoyo al desarrollo tecnológico
+49,PROGRETREP,Character,1,7.5. Programas de retención y repatriación
+50,PRIOCONA,Character,1,"8. Materia de política de ciencia y tecnología, cuál considera usted que es la prioridad del CONACYT"
+51,RELCONCIEN,Character,1,"9. Cómo está definida la relación entre la generación de conocimiento científico y su aplicación, como consecuencia  de política actual que se lleva a cabo en el CONACYT"
+52,POLACTCONA,Character,1,10. La política actual del CONACYT ha favorecido o no la descentralización de la investigación científica y tecnológica en el territorio nacional
+53,OBSERVACIO,Character,254,Observaciones
+54,NUMREN,Character,2,Número de renglón
+55,FACPER,Numeric,10,Factor de expansión por persona

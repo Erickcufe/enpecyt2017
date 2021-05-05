@@ -1,0 +1,61 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad federativa
+6,MUNICIPIO,Character,3,Municipio o delegación 
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Clave de AGEB
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Número de vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,JUEZ,Character,2,14.1 Juez
+13,MEDICO,Character,2,14.2 Médico
+14,ABOGADO,Character,2,14.3 Abogado
+15,INVESTIGA,Character,2,14.4 Investigador científico
+16,HOMBRENG,Character,2,14.5 Hombre de negocios
+17,PERIODI,Character,2,14.6 Periodista
+18,BANQUERO,Character,2,14.7 Banquero
+19,INGENIE,Character,2,14.8 Ingeniero
+20,ARQUITE,Character,2,14.9 Arquitecto
+21,PROFESOR,Character,2,14.10 Profesor
+22,DEPORT,Character,2,14.11 Deportista
+23,ARTISTA,Character,2,14.12 Artista
+24,BIOLOGIA,Character,1,15.1 Biología
+25,ASTRONOM,Character,1,15.2 Astronomía
+26,HISTORIA,Character,1,15.3 Historia
+27,FISICA,Character,1,15.4 Física
+28,PARAPSI,Character,1,15.5 Parasicología
+29,ASTROLOG,Character,1,15.6 Astrología
+30,ECONOMIA,Character,1,15.7 Economía
+31,MEDICINA,Character,1,15.8 Medicina
+32,PSICOLOGIA,Character,1,15.9 Psicología
+33,MATEMA,Character,1,15.10 Matemáticas
+34,IMNGCYT1,Character,1,16.1.1 La ciencia tiene una imagen muy negativa en la sociedad (Principal razón)
+35,IMNGCYT2,Character,1,16.1.2 La ciencia tiene una imagen muy negativa en la sociedad (Segunda razón)
+36,IMNGCYT3,Character,1,16.1.3 La ciencia tiene una imagen muy negativa en la sociedad (Tercera razón)
+37,MATATR1,Character,1,16.2.1 Las clases de materias científicas en la escuela no son suficientemente atractivas (Principal razón)
+38,MATATR2,Character,1,16.2.2 Las clases de materias científicas en la escuela no son suficientemente atractivas (Segunda razón)
+39,MATATR3,Character,1,16.2.3 Las clases de materias científicas en la escuela no son suficientemente atractivas (Tercera razón)
+40,TEMADIF1,Character,1,16.3.1 Los temas científicos son muy difíciles (Principal razón)
+41,TEMADIF2,Character,1,16.3.2 Los temas científicos son muy difíciles (Segunda razón)
+42,TEMADIF3,Character,1,16.3.3 Los temas científicos son muy difíciles  (Tercera razón)
+43,EXPSAL1,Character,1,16.4.1 La expectativas laborales y salariales para una carrera en ciencias no son muy atractivas (Principal razón)
+44,EXPSAL2,Character,1,16.4.2 La expectativas laborales y salariales para una carrera en ciencias no son muy atractivas (Segunda razón)
+45,EXPSAL3,Character,1,16.4.3 La expectativas laborales y salariales para una carrera en ciencias no son muy atractivas (Tercera razón)
+46,POCOINJ1,Character,1,16.5.1 Los jóvenes se interesan menos por los temas científicos (Principal razón)
+47,POCOINJ2,Character,1,16.5.2 Los jóvenes se interesan menos por los temas científicos (Segunda razón)
+48,POCOINJ3,Character,1,16.5.3 Los jóvenes se interesan menos por los temas científicos (Tercera razón)
+49,OTRA1,Character,1,16.6.1 Otra (Especifique) (Principal razón)
+50,OTRA2,Character,1,16.6.2 Otra (Especifique) (Segunda razón)
+51,OTRA3,Character,1,16.6.3 Otra (Especifique) (Tercera razón)
+52,NINGUN1,Character,1,16.7.1 Ninguna de las anteriores (Principal razón)
+53,NINGUN2,Character,1,16.7.2 Ninguna de las anteriores (Segunda razón)
+54,NINGUN3,Character,1,16.7.3 Ninguna de las anteriores (Tercera razón)
+55,NOSABE1,Character,1,16.8.1 No sabe (Principal razón)
+56,NOSABE2,Character,1,16.8.2 No sabe (Segunda razón)
+57,NOSABE3,Character,1,16.8.3 No sabe (Tercera razón)
+58,ESPE_C166,Character,50,16.6 Especifique
+59,NUMREN,Character,2,Número de renglón
+60,FACPER,Numeric,10,Factor de expansión por persona

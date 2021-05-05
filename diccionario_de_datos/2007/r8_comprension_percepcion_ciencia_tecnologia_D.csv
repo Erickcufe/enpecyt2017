@@ -1,0 +1,44 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registros
+2,ENTIDAD,Carácter,2,Entidad federativa                             
+3,MUNICIPIO,Carácter,3,Municipio o delegación                         
+4,LOCALIDAD,Carácter,4,Localidad                                      
+5,AGEB,Carácter,4,Clave de AGEB                                  
+6,NUMCONTROL,Carácter,6,Número de control                              
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada                
+8,IDHOGAR,Carácter,1,Hogar                                          
+9,DEGVIV,Carácter,1,de                                   
+10,ESTCIEN,Carácter,1,1 Estudio científico                           
+11,SOFTWARE,Carácter,1,2 Software o paquetería computacional          
+12,CONTAMI,Carácter,1,3 Contaminación ambiental                      
+13,EFECTINV,Carácter,1,4 Efecto invernadero                           
+14,CALGLOBAL,Carácter,1,5 Calentamiento global en la tierra            
+15,CAPAOZO,Carácter,1,6 Agujero en la capa de ozono                  
+16,ALIMGENE,Carácter,1,7 Alimentos modificados genéticamente          
+17,MEDINGE,Carácter,1,8 Medicinas productos de la ingeniera genética 
+18,NANOTEC,Carácter,1,9 Nanotecnologías                              
+19,MOTDCEL,Carácter,1,10 Motores de energía por celdas               
+20,TIERRACAL,Carácter,1,1 El centro de la Tierra es muy caliente       
+21,RADIOACT,Carácter,1,2 Toda la radioactividad esta hecha por el hombre
+22,OXIGRES,Carácter,1,3 Todo el oxígeno que respiramos proviene      
+23,GENPADRE,Carácter,1,4 El gen del padre es el que decide            
+24,RAYOLASER,Carácter,1,5 El rayo láser trabaja por el enfoque         
+25,ELECTRONES,Carácter,1,6 Los electrones son más pequeños              
+26,ANTIBIOTI,Carácter,1,7 Los antibióticos sirven para tratar          
+27,BIGBANG,Carácter,1,8 El universo inicio con una gran explosión    
+28,CONTINENTE,Carácter,1,9 Los continentes sobre los que vivimos han    
+29,EVOLUCION,Carácter,1,10 Los seres humanos de hoy se desarrollaron   
+30,CANCERPUL,Carácter,1,11 Fumar puede causar cáncer pulmonar          
+31,DINOSAURIO,Carácter,1,12 Los primeros humanos vivieron en la misma   
+32,CANCERPIEL,Carácter,1,13 Los agujeros en la capa de ozono            
+33,EFECTOINV,Carácter,1,14 El efecto invernadero puede elevar          
+34,LLUVIAC,Carácter,1,15 La lluvia ácida puede causar daños          
+35,ESCAPES,Carácter,1,16 La emisión de gases de los escapes          
+36,TRASLACION,Carácter,1,17 La tierra da la vuelta al sol en un mes     
+37,VELLUZ,Carácter,1,18 El sonido viaja más rápido que la luz       
+38,CONALIMTRA,Carácter,1,19 El consumo frecuente de alimentos           
+39,HURACANES,Carácter,1,20 Debido a los agujeros en la capa de ozono   
+40,ENFCONTG,Carácter,1,Un doctor le dice una pareja que tienen una de 
+41,PRUEBAMED,Carácter,1,Un médico quiere probar un medicamento para com
+42,LLAVE,Carácter,23,Llave que identifica al hogar
+43,NUMREN,Carácter,2,Número de renglón que relaciona con las tablas R4 y R3

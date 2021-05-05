@@ -1,0 +1,17 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación del registro
+2,ENTIDAD,Carácter,2,Entidad federativa               
+3,MUNICIPIO,Carácter,3,Municipio o delegación           
+4,LOCALIDAD,Carácter,4,Localidad                        
+5,AGEB,Carácter,4,Clave de AGEB                    
+6,NUMCONTROL,Carácter,6,Número de control                
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada  
+8,IDHOGAR,Carácter,1,Hogar                            
+9,DEGVIV,Carácter,1,de                               
+10,NUMPER,Carácter,2,Número de personas en la vivienda
+11,GASTOCO,Carácter,1,Gasto común (Si/No)              
+12,NUMHOG,Carácter,2,Número de hogares                
+13,LLAVE,Carácter,23,Llave que identifica el hogar
+14,RESENT,Carácter,2,Resultado de la entrevista              
+15,NUMREN,Carácter,2,Número de renglón          
+16,FACTOR_PER,Numérico,10,Factor según el número de personas

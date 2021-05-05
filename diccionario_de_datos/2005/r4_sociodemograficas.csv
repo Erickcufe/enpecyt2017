@@ -1,0 +1,26 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,TPREG,Character,1,Tipo de registro
+3,ENTIDAD,Character,2,Entidad federativa
+4,MUNICIPIO,Character,3,Municipio o delegacion
+5,LOCALIDAD,Character,4,Localidad
+6,AGEB,Character,4,Clave de AGEB
+7,NUMCONTROL,Character,6,Número de control
+8,VIVSEL,Character,2,Número de vivienda seleccionada
+9,IDHOGAR,Character,6,Número de hogar
+10,NUMREN,Character,2,1. Número de renglón
+11,PARENTE,Character,1,3. Parentesco
+12,SEXO,Character,1,4. Sexo
+13,EDAD,Character,3,5. Edad
+14,DIA,Character,2,6. Fecha de nacimiento (día)
+15,MES,Character,2,6. Fecha de nacimiento (mes)
+16,ELIGIBI,Character,1,Elegibilidad
+17,ALFABE,Character,1,7. Alfabetismo
+18,ASISTEN,Character,1,8. Asistencia
+19,NIVEL,Character,2,9. Nivel de instrucción
+20,ANIOS,Character,1,9. Nivel de instrucción (años)
+21,ANTECE,Character,1,10. Antecedente escolar
+22,SITCONY,Character,1,11. Situación conyugal
+23,CONDACT,Character,1,12. Condición de actividad
+24,VERIFAC,Character,1,13. Verificación de actividad
+25,FACVIV,Numeric,10,Factor de expansión de la vivienda

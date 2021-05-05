@@ -1,0 +1,17 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Character,1,Tipo de registro
+2,ENTIDAD,Character,2,Entidad federativa
+3,MUNICIPIO,Character,3,Municipio o delegación
+4,LOCALIDAD,Character,4,Localidad
+5,AGEB,Character,4,Clave de AGEB
+6,NUMCONTROL,Character,6,Número de control
+7,VIVSEL,Character,2,Número de vivienda seleccionada
+8,IDHOGAR,Character,6,Número de hogar
+9,DIA,Character,2,Día
+10,HORAI,Character,2,Hora de inicio
+11,MINUI,Character,2,Minuto de inicio
+12,HORAT,Character,2,Hora de termino
+13,MINUT,Character,2,Minuto de termino
+14,RESENT,Character,2,Resultado de la entrevista
+15,POB,Numeric,10,Total de residentes
+16,FACVIV,Numeric,10,Factor de expansión a viviendas

@@ -1,0 +1,44 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                
+3,MUNICIPIO,Carácter,3,Municipio o delegación            
+4,LOCALIDAD,Carácter,4,Localidad                         
+5,AGEB,Carácter,4,Clave de AGEB                     
+6,NUMCONTROL,Carácter,6,Número de control                 
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada   
+8,IDHOGAR,Carácter,1,Hogar                             
+9,DEGVIV,Carácter,1,de                                
+10,DEPORTE,Carácter,1,1.- Deportes                      
+11,POLITICA,Carácter,1,2.- Política                      
+12,NUINYTEC,Carácter,1,3.- Nuevos inventos y             
+13,NUEDES,Carácter,1,4.- Nuevos                        
+14,CONTAM,Carácter,1,5.- Contaminación                 
+15,SOCIALES,Carácter,1,6.- Sociales                      
+16,ECOYFIN,Carácter,1,7.- Economía y                    
+17,NOTENTIEM,Carácter,1,No tengo tiempo                   
+18,NOLOSENT,Carácter,1,No los entiendo                   
+19,NOLOSNEC,Carácter,1,No los necesito                   
+20,NUMHEPEN,Carácter,1,Nunca he pensado acerca           
+21,NOSONINT,Carácter,1,No son de mi interés              
+22,NHAYRZP,Carácter,1,No hay una razón en particular    
+23,OTRA,Carácter,1,Otra                              
+24,ESPE,Carácter,15,Especifique                       
+25,MEDICINA,Carácter,2,Medicina                          
+26,INTERNET,Carácter,2,Internet                          
+27,MEDAMB,Carácter,2,Medio ambiente                    
+28,ASTROYVIA,Carácter,2,Astronomía y viajes               
+29,GENETICA,Carácter,2,Genética                          
+30,NANOTEC,Carácter,2,Nanotecnologías                   
+31,ECOYCIS,Carácter,2,Economía y ciencias               
+32,HUMANI,Carácter,2,Humanidades                       
+33,OTRAS,Carácter,2,Otra                              
+34,ESPECI,Carácter,15,Especifique                       
+35,DEPORTE2,Carácter,1,1 Deportes                        
+36,POLITICA2,Carácter,1,2 Política                        
+37,NUINVYTEC2,Carácter,1,3 Nuevos inventos y tecnología    
+38,NUEDESC2,Carácter,1,4 Nuevos descubrimientos          
+39,COMTAMI2,Carácter,1,5 Contaminación ambiental        
+40,SOCIALES2,Carácter,1,6 Sociales y espectáculos         
+41,ECOYFIN2,Carácter,1,7 Economía y finanzas             
+42,LLAVE,Carácter,23,Llave que identifica al hogar
+43,NUMREN,Carácter,2,Número de renglón que relaciona el registro con R4 y con R3

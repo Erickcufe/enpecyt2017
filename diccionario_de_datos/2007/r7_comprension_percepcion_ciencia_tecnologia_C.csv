@@ -1,0 +1,57 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                             
+3,MUNICIPIO,Carácter,3,Municipio o delegación                         
+4,LOCALIDAD,Carácter,4,Localidad                                      
+5,AGEB,Carácter,4,Clave de AGEB                                  
+6,NUMCONTROL,Carácter,6,Número de control                              
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada                
+8,IDHOGAR,Carácter,1,Hogar                                          
+9,DEGVIV,Carácter,1,de                                             
+10,JUEZ,Carácter,2,1 juez?                                        
+11,MEDICO,Carácter,2,2 médico?                                      
+12,ABOGADO,Carácter,2,3 abogado?                                     
+13,INVESTIGA,Carácter,2,4 investigador científico?                     
+14,HOMBRENG,Carácter,2,5 hombre de negocios?                          
+15,PERIODI,Carácter,2,6 periodista?                                  
+16,BANQUERO,Carácter,2,7 banquero?                                    
+17,INGENIE,Carácter,2,8 ingeniero?                                   
+18,ARQUITE,Carácter,2,9 arquitecto?                                  
+19,PROFESOR,Carácter,2,10 profesor?                                   
+20,DEPORT,Carácter,2,11 deportista?                                 
+21,ARTISTA,Carácter,2,12 artista?                                    
+22,PEREVYPER,Carácter,1,1 Periodistas de revistas y periódicos         
+23,PETVYRAD,Carácter,1,2 Periodistas de televisión y radio            
+24,PALITICOS,Carácter,1,3 Políticos                                    
+25,INC,Carácter,1,4 Instituto Nacional del Consumidor            
+26,CIENTRAUNI,Carácter,1,5 Científicos trabajando en universidades o    
+27,CIENTRACEN,Carácter,1,6 Científicos trabajando en centros de         
+28,ASOCPAM,Carácter,1,7 Asociaciones de protección ambiental         
+29,EMPRESA,Carácter,1,8 Empresarios                                  
+30,MILITARES,Carácter,1,9 Militares                                    
+31,LIDREL,Carácter,1,10 Lideres o representantes religiosos         
+32,GOBIERNO,Carácter,1,11 Gobierno                                    
+33,MADICOS,Carácter,1,12 Médicos                                     
+34,ESCEINV,Carácter,1,13 Escritores e intelectuales                  
+35,BIOLOGIA,Carácter,1,1 Biología                                     
+36,ASTRONOM,Carácter,1,2 Astronomía                                   
+37,HISTORIA,Carácter,1,3 Historia                                     
+38,FISICA,Carácter,1,4 Física                                       
+39,HOMEOPA,Carácter,1,5 Homeopatía                                   
+40,HOROSCOPOS,Carácter,1,6 Horóscopos                                   
+41,ECONOMIA,Carácter,1,7 Economía                                     
+42,MEDICINA,Carácter,1,8 Medicina                                     
+43,PSICOLOGIA,Carácter,1,9 Psicología                                   
+44,MATEMA,Carácter,1,10 Matemáticas                                 
+45,PARAPSI,Carácter,1,11 Parapsicología                              
+46,CIIMANEG,Carácter,1,1 La ciencia tiene una imagen muy negativa en l
+47,CLMCNOAT,Carácter,1,2 Las clases de materias científicas en la escu
+48,TECIDIFI,Carácter,1,3 Los temas científicos son muy difíciles      
+49,EXPLYSNOAT,Carácter,1,4 Las expectativas laborales y salariales por u
+50,POCOINTJOV,Carácter,1,5 Los jóvenes se interesan menos por temas cien
+51,OTRA,Carácter,1,6 Otra:                                        
+52,NINGUNA,Carácter,1,7 Ninguna de las anteriores                    
+53,NOSABE,Carácter,1,8 No sabe                                      
+54,ESPE_C166,Carácter,50,Especifique
+55,LLAVE,Carácter,23,Llave que identifica al hogar
+56,NUMREN,Carácter,2,Número de renglón que relaciona con las tablas R4 y R3

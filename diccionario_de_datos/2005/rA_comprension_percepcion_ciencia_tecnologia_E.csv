@@ -1,0 +1,72 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad
+6,MUNICIPIO,Character,3,Municipio
+7,LOCALIDAD,Character,4,Localidad
+8,AGEB,Character,4,Ageb
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,CURA,Character,1,21.1. Cura para enfermedades como el SIDA y el cáncer
+13,OPORTUNIDA,Character,1,21.2. Más oportunidades para las próximas generaciones
+14,APORTACION,Character,1,"21.3. Vidas más fáciles, confortables y con mayores niveles de salud"
+15,TRABINT,Character,1,21.4. Trabajo más interesante
+16,PROTMEDA,Character,1,21.5. Papel muy importante en la protección y restauración del medio ambiente
+17,DESTPLAN,Character,1,21.6. Tarde o temprano destruirán el planeta
+18,VSEFECDA,Character,1,21.7. Contrarrestar las consecuencias dañinas del desarrollo tecnológico
+19,ERRPOBHAM,Character,1,21.8. Erradicar la pobreza y hambruna en el mundo
+20,AUTMASEM,Character,1,21.9. Automatización de las fábricas y la computación crearán más empleos de los que se eliminarán
+21,RECNATIN,Character,1,21.10. Los recursos naturales de la Tierra serán inagotables
+22,CYTRESOLV,Character,1,21.11. Puede resolver todos los problemas
+23,FUNDDES,Character,1,22.1. Juegan un papel fundamental en el desarrollo industrial
+24,INVESBAS,Character,1,22.2. Dependen de la investigación básica
+25,APOYOGOB,Character,1,"22.3. Debe ser apoyada por el Gobierno Federal, aún cuando los beneficios no sean inmediatos"
+26,ECONCOMP,Character,1,22.4. Nuestra economía podrá ser más competitiva
+27,INTERNETES,Character,1,22.5. Internet es escencial para le desarrollo de nuevas actividades económicas
+28,INTERNETNV,Character,1,22.6. Internet ayudará a mejorar la calidad de vida de las personas
+29,ICMASBATPI,Character,1,22.7. Investigación científica hace que los productos industriales sean más baratos
+30,BATUTPRAC,Character,1,22.8. Muchos de los bienes de alta tecnología son útiles o prácticos
+31,NIVINVCB,Character,1,22.9. Crecimiento econ. de la pob. está estrechamente relacionado con su nivel de investigación en ciencias básicas
+32,BENVSDAN,Character,1,22.10. Beneficios generados por la investigación científica que los daños asociados
+33,RESPCIENT,Character,1,"23.1. Un científico debe responsabilizarse de los usos buenos y malos que hace, él mismo, de sus propios descubrimientos"
+34,RESPMALU,Character,1,23.2. Los científicos son resposables de los malos usos que hacen otras personas
+35,CIENTPELI,Character,1,"23.3. Debido a sus conocimientos, los científicos tienen un poder que los hace peligrosos"
+36,DESCBUMA,Character,1,"23.4. Los descubrimientos científicos no son buenos ni malos, lo importante es el uso que se les dé"
+37,DANOANIM,Character,1,"23.5. Debe ser permitido a los científicos el daño y dolor que causa a los animales, siempre que beneficie a la salud de los seres humanos"
+38,REGLASET,Character,1,23.6. Las autoridades deben obligar a los científicos a observar reglas éticas
+39,OBREETICAS,Character,1,"23.7. Deben ser libres de llevar a cabo sus investigaciones a su antojo, siempre y cuando las hagan bajo reglas éticas"
+40,PRESUPINV,Character,1,"24.1. El presupuesto para la investigación, debería ser mayor en nuestro país"
+41,INVERSIONI,Character,1,24.2. El gobierno debería invertir más en investigación
+42,TRABENCONJ,Character,1,24.3. Los investigadores de los diferentes países deberían trabajar más en conjunto
+43,INVMEXICAN,Character,1,24.4. En México debería haber más gente trabajando en investigación y Desarrollo tecnológico
+44,FUGACEREB,Character,1,24.5. Los investigadores mejor calificados se van a los Estados Unidos o Europa
+45,COLABINST,Character,1,24.6. Debería haber mayor coordinación entre los investigadores de las diferentes instituciones del país
+46,COOPEMCI,Character,1,24.7. Los científicos y los empresarios debería cooperar más entre sí
+47,PRIORIDAD,Character,1,24.8. Las prioridades en la investigación nacional reflejan más los gustos personales de los científicos mexicanos que las necesidades de la sociedad
+48,PATENTES,Character,1,24.9. Los científicos deberían interesarse más en patentar sus investigaciones y en el uso que se les dé
+49,IMPLETICA,Character,1,24.10. Los mexicanos deberían estar menos preocupados acerca de las implicaciones éticas relacionadas con la ciencia y la tecnología modernas
+50,MUJENINV,Character,1,24.11. Más mujeres dedicadas a la investigación científica en nuestro país
+51,TCYTENMED,Character,1,"25. Temas de ciencia en distintos medios, usted percibe que está familiarizado con ellos"
+52,PRESENMED,Character,1,"25.1. Cuando se tocan temas de ciencias en los medios de comunicación, son presentados de manera"
+53,PUBCYT,Character,1,"25.2. Cuando se presenta publicidad de un producto en los medios de comunicación, como científicamente probada, su percepción entonces es que se trata de algo"
+54,SALINV,Character,1,25.3. Cuál es el salario de un investigador científico
+55,MAGSAL,Character,1,25.4. De qué magnitud cree que sea el salario de un investigador científico
+56,CONINV,Character,1,25.5. Conoce de manera directa a una persona que se dedique a la investigación científica en México
+57,CONSCONC,Character,1,25.6. Cómo considera que es el conocimiento científico
+58,SATCOM,Character,1,26.1. Satélites de comunicación
+59,REDCONT,Character,1,26.2. Reducción de la contaminación
+60,MESERVSA,Character,1,26.3. Mejoras en los servicios de salud
+61,APOYINVC,Character,1,26.4. Apoyos a la investigación científica
+62,MEJSISTED,Character,1,26.5. Mejoras en el sistema educativo
+63,ACCUNITI,Character,1,26.6. Dotar a la población de acceso universal a las tecnologías de la información
+64,REDPATAM,Character,1,26.7. Reducción de la pobreza y atención a los adultos mayores
+65,DMEJCIENT,Character,1,27.1. Dónde están los mejores científicos
+66,GASMASIC,Character,1,27.2. Cuál país gasta más dinero en investigación científica
+67,APLDEGDC,Character,1,27.3. Dónde es más frecuente aplicar los descubrimientos científicos en productos
+68,ESPE_E25,Character,50,"25. Temas de ciencia en distintos medios, usted percibe que está familiarizado con ellos (Especifique)"
+69,ESPE_E251,Character,50,25.1. Texto (especifique)
+70,NUMREN,Character,2,Número de renglón
+71,FACPER,Numeric,10,Factor de expansión por persona

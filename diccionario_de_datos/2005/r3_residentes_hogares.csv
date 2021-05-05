@@ -1,0 +1,12 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Character,1,Tipo de registro
+2,ENTIDAD,Character,2,Entidad Federativa
+3,MUNICIPIO,Character,3,Municipio o delegación
+4,LOCALIDAD,Character,4,Localidad
+5,AGEB,Character,4,Clave de AGEB
+6,NUMCONTROL,Character,6,Número de control
+7,VIVSEL,Character,2,Número de vivienda seleccionada
+8,IDHOGAR,Character,6,Número de hogar
+9,NUMPER,Character,2,1. Número de personas
+10,GASTOCO,Character,1,2. Gasto común
+11,NUMHOG,Character,2,3. Número de Hogares

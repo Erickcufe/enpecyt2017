@@ -1,0 +1,93 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Carácter,1,Identificación de registro
+2,ENTIDAD,Carácter,2,Entidad federativa                             
+3,MUNICIPIO,Carácter,3,Municipio o delegación                         
+4,LOCALIDAD,Carácter,4,Localidad                                      
+5,AGEB,Carácter,4,Clave de AGEB                                  
+6,NUMCONTROL,Carácter,6,Número de control                              
+7,VIVSEL,Carácter,2,Número de vivienda seleccionada                
+8,IDHOGAR,Carácter,1,Hogar                                          
+9,DEGVIV,Carácter,1,de                                             
+10,RADIO,Carácter,1,Radio                                          
+11,PERYREV,Carácter,1,Periódicos y revistas                          
+12,REVCIEN,Carácter,1,Revistas científicas                           
+13,INTERNET,Carácter,1,Internet                                       
+14,TELEVI,Carácter,1,Televisión                                     
+15,ESCYUNI,Carácter,1,Escuela / universidad                          
+16,TODASIMP,Carácter,1,Todas son importantes                          
+17,INGESIMP,Carácter,1,Ninguna es importante                          
+18,NOSABE,Carácter,1,No sabe                                        
+19,HRSTVSEM,Carácter,3,4.-¿Cuántas horas a la semana ve               
+20,NOTITV,Carácter,3,"4.1 ¿De éstas, cuántas horas ve                "
+21,CYTTV,Carácter,3,4.2 ¿Y cuántas horas ve programas              
+22,HRSRADIO,Carácter,3,5. ¿Cuántas horas a la semana                  
+23,NOTIRA,Carácter,3,"5.1 ¿De éstas, cuántas horas                   "
+24,CYTRA,Carácter,3,5.2 ¿Y cuántas horas escucha                   
+25,LEEPERI,Carácter,1,6. ¿Cuántos días a la semana                   
+26,LEEART,Carácter,3,6.1 ¿Cuántos artículos a la semana             
+27,ARTNOTI,Carácter,3,6.2 ¿Cuántos artículos de noticias             
+28,ARTCYT,Carácter,3,6.3 ¿Cuántos artículos semanales               
+29,LEEREVI,Carácter,2,7. ¿Cuántas días a la quincena lee             
+30,ARTIREVI,Carácter,3,7.1 ¿Cuántos artículos a la                    
+31,ARTCNOTI,Carácter,3,7.2 ¿Cuántos artículos de noticias             
+32,ARTCYTEC,Carácter,3,7.3 ¿Cuántos artículos de ciencia y            
+33,REVISTA1,Carácter,30,Nombre de revista 1
+34,REVISTA2,Carácter,30,Nombre de revista 2
+35,REVISTA3,Carácter,30,Nombre de revista 3
+36,ACCOMPU,Carácter,1,"8 ¿Tiene usted acceso, o cuenta con            "
+37,LUGAR1,Carácter,2,Lugar 1:                                       
+38,LUGAR2,Carácter,2,Lugar 2:                                       
+39,ESPE,Carácter,30,Especifique                                    
+40,CINTERN,Carácter,1,¿Sabe usted que es internet?                    
+41,ACCINTER,Carácter,1,10. ¿Accesa usted a internet?                  
+42,HORASEM,Carácter,2,10.1 ¿Cuántas horas a la semana                
+43,ARTEYHUM,Carácter,1,1 artes y humanidades                          
+44,SOCYCUL,Carácter,1,"2 sociedad y cultura (turismo, medio           "
+45,CONVERTR,Carácter,1,3 conversación en tiempo real                  
+46,INSTGOB,Carácter,1,4 instituciones de gobierno                    
+47,CIENCIA,Carácter,1,"5 ciencia (biología, astronomía)?              "
+48,DEPOR,Carácter,1,6 deportes?                                    
+49,ECOYFIN,Carácter,1,7 economía y finanzas (operaciones             
+50,ENTRETE,Carácter,1,8 entretenimiento                              
+51,TECNOL,Carácter,1,"9 tecnología (electrónica,                     "
+52,NOTIAC,Carácter,1,10 noticias de actualidad                      
+53,EDUCA,Carácter,1,11 educación                                   
+54,SERVSREF,Carácter,1,"12 servicios de referencia (bibliotecas,       "
+55,COMENLIN,Carácter,1,"13 compras en línea (subastas,                 "
+56,EMAIL,Carácter,1,14 correo electrónico (e-mail)?                
+57,MEDICINA,Carácter,1,"15 medicina (medicamentos, nuevos              "
+58,OTROS,Carácter,1,16 otros ?                                     
+59,MUSDARTE,Carácter,1,1 Museo de arte                                
+60,ZOO,Carácter,1,2 Zoológico o                                  
+61,BIBLIOPUB,Carácter,1,3 Biblioteca pública                           
+62,MUSDCYT,Carácter,1,4 Museo de ciencia                             
+63,PLANETA,Carácter,1,5 Planetario                                   
+64,EXPOCYT,Carácter,1,6 Exposiciones                                 
+65,SEMNACYT,Carácter,1,7 Semana nacional                              
+66,APRENDER,Carácter,2,Para aprender algo                             
+67,ESINTE,Carácter,2,Es interesante                                 
+68,ACOMALGUN,Carácter,2,Acompañe a algún                               
+69,ESDIVERT,Carácter,2,Es divertido                                   
+70,CASUALIDAD,Carácter,2,Por casualidad                                 
+71,GUSTO,Carácter,2,Me gusta la ciencia y                          
+72,POREXH,Carácter,2,Por una exhibición o                           
+73,NADAQH,Carácter,2,No tenía nada que                              
+74,CERCADCA,Carácter,2,Está cerca de mi casa                          
+75,OTRA,Carácter,2,Otra                                           
+76,ESPECI,Carácter,15,Especifique                                    
+77,FALDTIM,Carácter,1,Falta tiempo                                   
+78,ESTALEJOS,Carácter,1,Está muy lejos                                 
+79,PRECDENTRA,Carácter,1,El precio de entrada                           
+80,NOSEUB,Carácter,1,No sé dónde hay este                           
+81,NOHAYINT,Carácter,1,No estoy interesado                            
+82,MUSCOMP,Carácter,1,Esos museos son                                
+83,NOESTAPLA,Carácter,1,No estaba en mis planes                        
+84,OTRAS,Carácter,1,Otra                                           
+85,ESPECIF,Carácter,15,Especifique                                    
+86,MUCHPCYT,Carácter,1,1 Hay muchos artículos y programas de ciencia y
+87,DESCYTNE,Carácter,1,2 Los desarrollos científicos y tecnológicos se
+88,POCOCIP,Carácter,1,3 Muchos de los periodistas que abordan temas c
+89,PRECYTENTV,Carácter,1,4 Prefiero ver programas sobre ciencia y tecnol
+90,MDCLEO,Carácter,1,5 Muy de vez en cuando leo artículos sobre cien
+91,LLAVE,Carácter,23,Llave que identifica al hogar
+92,NUMREN,Carácter,2,Número de renglón que relaciona con las tablas R4 y R3

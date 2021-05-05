@@ -128,3 +128,10 @@ usethis::use_data(enpecyt2017_cb2, overwrite = TRUE)
 usethis::use_data(enpecyt2017_cs, overwrite = TRUE)
 usethis::use_data(enpecyt2017_vivhog, overwrite = TRUE)
 
+
+# DICCIONARIOS ********
+
+# 2005*****
+
+
+

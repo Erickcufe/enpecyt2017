@@ -1,0 +1,43 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,TPREG,Character,1,Tipo de registro
+2,ENTIDAD,Character,2,Entidad federativa
+3,MUNICIPIO,Character,3,Municipio o delegación
+4,LOCALIDAD,Character,4,Localidad
+5,AGEB,Character,4,Clave de AGEB
+6,NUMCONTROL,Character,6,Número de control
+7,VIVSEL,Character,2,Número de vivienda seleccionada
+8,IDHOGAR,Character,6,Número de hogar
+9,FOLIO,Character,3,Folio de paquete
+10,CONSEC,Character,3,Consecutivo de cuestionario en el paquete
+11,PAREDES,Character,2,1. Paredes o muros
+12,TECHOS,Character,2,2. Techos
+13,PISOS,Character,1,3. Pisos
+14,COCINA,Character,1,4. Cocina
+15,COCINAD,Character,1,4. Cocina (Segunda pregunta)
+16,CUARTOSD,Character,2,5. Número de cuartos
+17,TOTCUARTOS,Character,2,5. Número de cuartos (Segunda pregunta)
+18,SUPERFICIE,Character,3,6. Superficie
+19,RANGOSUP,Character,1,6. Superficie (Rangos)
+20,DISPOAG,Character,1,7. Disponibilidad de agua
+21,SANITARIO,Character,1,8. Excusado o sanitario
+22,SERVSAN,Character,1,8. Excusado o sanitario (Segunda pregunta)
+23,DRENAJE,Character,1,9. Drenaje
+24,ELECTRICI,Character,1,10. Electricidad
+25,FOCOS,Character,2,10. Electricidad (Segunda pregunta)
+26,COMBUS,Character,1,11. Combustible
+27,ESTEREO,Character,1,12.1. Estereo
+28,RADIO,Character,1,12.2. Radio
+29,TV,Character,1,12.3. Televisión
+30,VIDEO,Character,1,12.4. Videocasetera o DVD
+31,REFRI,Character,1,12.5. Refrigerador
+32,LAVADORA,Character,1,12.6. Lavadora
+33,HORNOMI,Character,1,12.7. Horno de microondas
+34,AUTO,Character,1,12.8. Automóvil o camioneta
+35,LAPTOP,Character,1,12.9. Computadora portátil
+36,COMPU,Character,1,12.10. Computadora de escritorio
+37,IMPRESO,Character,1,12.11. Impresora para computadora
+38,VIDEOJ,Character,1,"12.12. Videojuegos (nintendo, playstation, SEGA)"
+39,TELEFONO,Character,1,13.1. Línea telefónica fija
+40,CELU,Character,1,13.2. Teléfono móvil o celular 
+41,TVPAGA,Character,1,13.3. Televisión de paga
+42,INTERNET,Character,1,13.4. Internet

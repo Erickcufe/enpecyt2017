@@ -1,0 +1,26 @@
+No campo,Campo,Tipo,Longitud,Descripción
+1,RESENT,Character,2,Resultado de la entrevista
+2,EDAD,Character,3,Edad del elegido
+3,SEXO,Character,1,Sexo del elegido
+4,TPREG,Character,1,Tipo de registro
+5,ENTIDAD,Character,2,Entidad
+6,MUNICIPIO,Character,3,Muncipio
+7,LOCALIDAD,Character,4,Localida
+8,AGEB,Character,4,Ageb
+9,NUMCONTROL,Character,6,Número de control
+10,VIVSEL,Character,2,Vivienda seleccionada
+11,IDHOGAR,Character,6,Número de hogar
+12,OPCLONA,Character,1,"28. La clonación se encuentra dentro de la investigación en el campo de la biotecnología, Ha oido hablar de este tema"
+13,REPANICLO,Character,1,28.1. Esta de acuerdo con que se realice la reproducción de algunos animales por este medio
+14,REPORGCLON,Character,1,28.2. Esta de acuerdo que se realice la reproducción de órganos y tejidos humanos por clonación para realizar transplantes quirúrgicos
+15,CONFECIEN,Character,1,29.1. Confiamos demasiado en la fe y muy poco en la ciencia
+16,APLCIENVID,Character,1,29.2. La aplicación de la ciencia hace que nuestro modo de vida cambie demasiado rápido
+17,NUMSUER,Character,1,29.3. Algunos números son de la suerte
+18,DESTECDESH,Character,1,29.4. El desarrollo tecnológico origina una manera de vivir artificial y deshumanizado
+19,VEHESPCIV,Character,1,"29.5. Algunos de los objetos voladores no identificados que han reportado, son en realidad vehículos espaciales de otras civilizaciones"
+20,ALGPODPSI,Character,1,29.6. Algunas personas poseen poderes psíquicos
+21,MEDCIENREC,Character,1,29.7. Existen medios adecuados para el tratamiento de enfermedades que la ciencia no reconoce
+22,HOROCART,Character,1,30. Durante el último año ha leido su horóscopo o consultado su carta astral
+23,FREINFAST,Character,1,30.1. Con qué frecuencia consulta su información astrológica
+24,NUMREN,Character,2,Número de renglón
+25,FACPER,Numeric,10,Factor de expansión por persona
