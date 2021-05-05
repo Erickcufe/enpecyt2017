@@ -131,7 +131,16 @@ usethis::use_data(enpecyt2017_vivhog, overwrite = TRUE)
 
 # DICCIONARIOS ********
 
-# 2005*****
+dicc_2009_cb1 <- read.csv("diccionario_de_datos/2009/2009_cb1.csv")
+dicc_2009_cb2 <- read.csv("diccionario_de_datos/2009/2009_cb2.csv")
+dicc_2017_cb1 <- read.csv("diccionario_de_datos/diccionario_de_datos_cbasico1.csv")
+dicc_2017_cb2 <- read.csv("diccionario_de_datos/diccionario_de_datos_cbasico2.csv")
+
+usethis::use_data(dicc_2009_cb1, overwrite = TRUE)
+usethis::use_data(dicc_2009_cb2, overwrite = TRUE)
+usethis::use_data(dicc_2017_cb1, overwrite = TRUE)
+usethis::use_data(dicc_2017_cb2, overwrite = TRUE)
+
 
 
 
